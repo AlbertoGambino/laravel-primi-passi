@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+
+body .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 98vh;
+  width: 100%;
+}
+
+body .container .title {
+  color: gold;
+  font-size: 50px;
+  text-align: center;
+}
+
